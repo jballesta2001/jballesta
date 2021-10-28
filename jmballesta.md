@@ -11,7 +11,7 @@
         <img src="d:\usuarios\SMR_1\Downloads\descarga.jfif" alt="no carga por que la dirección es de mi ordenador">
 		<p> animals like</p>
 		<img src="imagenes\i2.jpg">
-        <img src="\smr2\Ballesta\imagenes\i2.jpg">
+        <img src="images/hipertextual-que-ningun-animal-tiene-tres-patas-2019533984.jpg">
 		
 		
 		
